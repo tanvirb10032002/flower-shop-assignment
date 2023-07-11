@@ -1,11 +1,38 @@
+h2 , h3{
+    font-family: 'Lato', sans-serif;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+}
+
+button{
+    font-size: 20px;
+}
+
 /* section-01 */
+
 .section-01{
     display: inline-flex;
     background-color: rgba(229, 84, 115, 0.1);
     height: 850px;
+    justify-content: space-between;
 }
+
+.section-01 h2{
+    font-size: 80px
+}
+
+.section-01 p{
+    font-size: 18px;
+}
+
 .section-01 img{
     width: 635px;
     height: 800px;
     padding-bottom: 0px;
+}
+
+.section-01 .headding-text{
+    padding: 100px 50px 100px 200px;
 }
