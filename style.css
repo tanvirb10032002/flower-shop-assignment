@@ -131,3 +131,50 @@ button{
     height: 300px;
     padding: 60px 300px 50px 30px;
 }
+
+/* Section-05 */
+
+.section-05 .text{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.section-05 .text h3{
+    font-size: 25px;
+}
+
+.section-05 .images{
+    display: inline-flex;
+    padding: 20px 150px;
+}
+
+.section-05 img{
+    height: 250px;
+    padding: 8px;
+}
+
+/* section-06 */
+
+.section-06{
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    padding: 100px 250px;
+    margin: 100px 150px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.section-06 input{
+    padding: 10px;
+}
+
+footer{
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(17, 16, 16, 1);
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+footer span{
+    color: rgba(229, 84, 115, 1);
+}
