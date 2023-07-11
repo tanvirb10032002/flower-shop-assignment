@@ -1,0 +1,11 @@
+/* section-01 */
+.section-01{
+    display: inline-flex;
+    background-color: rgba(229, 84, 115, 0.1);
+    height: 850px;
+}
+.section-01 img{
+    width: 635px;
+    height: 800px;
+    padding-bottom: 0px;
+}
