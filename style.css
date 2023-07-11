@@ -7,7 +7,12 @@ p{
 }
 
 button{
-    font-size: 20px;
+    font-size: 12px;
+    background-color: rgba(229, 84, 115, 1);
+    color: rgba(255, 255, 255, 1);
+    border: 0px;
+    padding: 12px 20px;
+    border-radius: 10px;
 }
 
 /* section-01 */
@@ -15,24 +20,24 @@ button{
 .section-01{
     display: inline-flex;
     background-color: rgba(229, 84, 115, 0.1);
-    height: 850px;
+    height: 580px;
     justify-content: space-between;
 }
 
 .section-01 h2{
-    font-size: 80px
+    font-size: 50px;
+    font-weight: bold;
 }
 
 .section-01 p{
-    font-size: 18px;
+    font-size: 10px;
 }
 
 .section-01 img{
-    width: 635px;
-    height: 800px;
-    padding-bottom: 0px;
+    height: 500px;
+    padding: 80px 180px 0px 100px;
 }
 
 .section-01 .headding-text{
-    padding: 100px 50px 100px 200px;
+    padding: 100px 10px 100px 150px;
 }
