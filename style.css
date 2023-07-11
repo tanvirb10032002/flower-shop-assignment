@@ -41,3 +41,43 @@ button{
 .section-01 .headding-text{
     padding: 100px 10px 100px 150px;
 }
+
+/* section-02 */
+
+.section-02 .Featured-images > .image-1 > img{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 200px 200px 0px 0px;
+    padding: 100px 60px 0px 60px;
+    height: 300px;
+}
+
+.section-02 .Featured-images > .image-1 > p{
+    text-decoration: underline;
+}
+
+.section-02 .Featured-images .image-1{
+    justify-content: center;
+    align-items: center;
+}
+
+.section-02 .Featured-images > .image-2 > img{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 200px 200px 0px 0px;
+    padding: 100px 60px 0px 60px;
+    height: 300px;
+}
+
+.section-02 .Featured-images > .image-1 > p{
+
+}
+
+.section-02 .Featured-images > .image-3 > img{
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 200px 200px 0px 0px;
+    padding: 100px 60px 0px 60px;
+    height: 300px;
+}
+
+.section-02 .Featured-images > .image-1 > p{
+
+}
